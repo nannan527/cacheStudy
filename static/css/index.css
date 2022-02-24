@@ -1,0 +1,7 @@
+.box {
+  width: 500px;
+  height: 300px;
+  background-image: url('../image/bg.jpg');
+  background-size: 100% 100%;
+  color: #f00;
+}
